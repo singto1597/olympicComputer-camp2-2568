@@ -1,0 +1,7 @@
+*.exe
+*.out
+main
+input.in
+output.txt
+
+script/secrets.fish
