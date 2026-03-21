@@ -20,16 +20,20 @@ int main(){
     int n, m;
     cin >> n >> m;
 
+    //input
     for (int i = 1; i <= n ; i++){
         for (int j = 1; j <= m; j++){
             cin >> maze[i][j];
             
         }
     }
+
+    //easy case
     if (maze[1][1] == 0 || maze[n][m] == 0){
         cout << "NO" << endl;
         return 0;
     }
+
 
     queue<pair<int, int>> q;
 
@@ -38,15 +42,21 @@ int main(){
     dist[1][1] = 0;
     from_path[1][1] = {-1, -1};
 
+
+    //breadth first search
     while (!q.empty()){
         pair<int, int> u = q.front();
         q.pop();
         int x = u.first;
         int y = u.second;
+        
+        //answer
         if (x == n && y == m){
             cout << "YES " << dist[x][y] << endl;
+
             int curr_x = n, curr_y = m;
             ans[curr_x][curr_y] = 1;
+
             while (curr_x != -1 && curr_y != -1){
                 pair<int,int> parent = from_path[curr_x][curr_y];
                 curr_x = parent.first;
@@ -55,6 +65,7 @@ int main(){
                     ans[curr_x][curr_y] = 1;
                 }
             }
+
             for (int i = 1; i <= n ; i++){
                 for (int j = 1; j <= m; j++){
                     cout << ans[i][j] << " ";
@@ -64,6 +75,8 @@ int main(){
             }
             return 0;
         }
+        
+        //try all path
         for(int i = 0; i < 4; i++){
             int nx = x + dx[i];
             int ny = y + dy[i];
