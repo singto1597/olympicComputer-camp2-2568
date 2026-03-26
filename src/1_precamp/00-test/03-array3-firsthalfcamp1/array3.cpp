@@ -15,6 +15,16 @@ pair<int, int> from_path[120][120];
 
 //แถวที่ x คอลัมที่ y
 
+/*
+x0 y1 y2 y3 y4 y5
+x1 y1 y2 y3 y4 y5
+x2 y1 y2 y3 y4 y5
+x3 y1 y2 y3 y4 y5
+x4 y1 y2 y3 y4 y5
+x5 y1 y2 y3 y4 y5
+*/
+
+
 int main(){
     ios_base::sync_with_stdio(false); cin.tie(NULL);
     int n, m;

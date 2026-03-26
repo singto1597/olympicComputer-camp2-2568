@@ -16,8 +16,21 @@ long long febo(long long n){
 }
 
 
+// long long febo(long long n){
+//     if (n == 1 || n == 0){
+//         return 1;
+//     }
+
+//     return febo(n-1) + febo(n-2);
+// }
+
+
 int main(){
-    ios_base::sync_with_stdio(false); cin.tie(NULL);
-    cout << febo(50) << endl;
+
+
+    cout << febo(45) << endl;
+
+
+
     return 0;
 }
