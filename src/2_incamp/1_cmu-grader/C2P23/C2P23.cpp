@@ -3,7 +3,7 @@
 #define s second
 using namespace std;
 
-#define itemType int
+#define itemType long long
 
 struct Node{
     itemType data;
@@ -119,37 +119,38 @@ int main(){
     int n;
     cin >> n;
     Node *root = nullptr;
-    for (int i = 0; i < n; i ++){
-        int data;
-        cin >> data;
-        root = insert(root, data);
+    for (long long i = 0; i < n; i ++){
+        // int data;
+        // cin >> data;
+        root = insert(root, i);
+        cout << i << " ";
     }
-    int oper;
-    cin >> oper;
+    // int oper;
+    // cin >> oper;
 
-    for (int i = 0; i < oper; i ++){
-        int c;
-        cin >> c;
-        switch(c){
-            case 1:
-                print_preOrder(root);
-                break;
+    // for (int i = 0; i < oper; i ++){
+    //     int c;
+    //     cin >> c;
+    //     switch(c){
+    //         case 1:
+    //             print_preOrder(root);
+    //             break;
 
-            case 2:
-                print_inOrder(root);
-                break;
+    //         case 2:
+    //             print_inOrder(root);
+    //             break;
 
-            case 3:
-                print_postOrder(root);
-                break;
+    //         case 3:
+    //             print_postOrder(root);
+    //             break;
 
-            case 4:
-                print_bfs(root);
-                continue;
-            case 5:
-                print_leafs(root);
-                break;
-        }
-        cout << "\n";
-    }
+    //         case 4:
+    //             print_bfs(root);
+    //             continue;
+    //         case 5:
+    //             print_leafs(root);
+    //             break;
+    //     }
+    //     cout << "\n";
+    // }
 }
