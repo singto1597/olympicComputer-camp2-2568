@@ -56,6 +56,7 @@ int main(){
                 break;
         }
     }
+    //
     while (!s.empty()){
         cout << s.top() << " ";
         s.pop();

@@ -16,35 +16,52 @@ int main(){
         
         }
         sort(arr, arr + n);
-        // int ans = 0;
-        // bool getOut[n] = {};
+
         int temp = 0;
-        int first = -1;
-        int last = -1;
+
+        vector<pair<int, int>> ans_all;
+
         bool visited = false;
         for (int i = n - 1; i >= 0; i --){
             for (int j = 0; j <= i; j++){
 
                     temp = arr[j] + arr[i];
                     if (temp % k == 0){
-                        visited = true;
-                        first = j;
-                        last = i;
-                        break;
+                        ans_all.push_back({j, i});
                     }
 
 
                 
             }
-            if (visited){
-                break;
+
+        }
+
+        int max_index = 0;
+        int max_diff = -1;
+
+        int i = 0;
+
+        if (ans_all.empty()){
+            cout << n << endl;
+            continue;
+        }
+
+        for (auto ans : ans_all){
+            if (ans.second - ans.first > max_diff){
+                max_diff = ans.second - ans.first ;
+                max_index = i;
             }
+            i++;
         }
 
         // cout << first << " " << last << endl;
-        if (first == -1 && last == -1) cout << n << "\n";
-        else cout << (n - 1) - (last - first) << "\n";
-        cout << arr[first] << " " << arr[last] << endl;
+        // if (first == -1 && last == -1) cout << n << "\n";
+        
+
+        int first = ans_all[max_index].first;
+        int last  = ans_all[max_index].second;
+        cout << (n - 1) - (last - first) << "\n";
+        // cout << arr[first] << " " << arr[last] << endl;
         // cout << " dfsfsd " << endl;
 
         
