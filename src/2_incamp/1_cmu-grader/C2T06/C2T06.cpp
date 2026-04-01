@@ -3,7 +3,7 @@
 using namespace std;
 
 long long dp[1000005] = {};
-
+const long long MOD = 1000000007;
 long long k = 0;
 
 long long recur(long long n){
@@ -30,14 +30,24 @@ long long recur(long long n){
 
 long long bottom_up(long long n){
     vector<long long> array(n + 5, 0);
+    vector<long long> prefix_sum(n + 5, 0);
     array[0] = 1;
     array[1] = 1;
 
+    prefix_sum[0] = 1;
+    prefix_sum[1] = 2;
+
     for (long long i = 2; i <= n; i++){
-        for (long long j = 1; j <= k; j++){
-            if (i - j < 0) continue;
-            array[i] = (array[i] + array[i - j]) % 1000000007;
+        if (i - k - 1 < 0){
+            array[i] = prefix_sum[i-1];
+
         }
+        else{
+            array[i] = (prefix_sum[i-1] - prefix_sum[i - k - 1] + MOD) % MOD;
+        }
+        prefix_sum[i] = (array[i] + prefix_sum[i-1]) % MOD;
+        
+        
     }
     //for (int i = 0; i<= n; i++){
     //    cout << array[i] << " ";
