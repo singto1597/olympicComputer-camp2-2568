@@ -46,7 +46,7 @@
 - [ ] C2P50 Urinals
 - [ ] C2P51 Max-Subarray
 - [ ] C2P52 Urinals-Mod
-- [ ] C2P53 Peak-1D
+- [x] C2P53 Peak-1D
 - [ ] C2P54 Max-Subarray
 - [ ] C2P55 Poly-Mult
 - [ ] C2P56 Zemo
