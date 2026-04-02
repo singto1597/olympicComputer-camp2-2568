@@ -1,5 +1,50 @@
 # 🏆 Progress: CMU Grader (Camp 2)
 
+## ✅ ผ่านฉลุย 100 เต็ม (ย้ายเข้า __DONE__ แล้ว)
+- [x] C2E01 Sweet Corn
+- [x] C2E02 Pochita
+- [x] C2E03 P cafe
+- [x] C2P01 Container
+- [x] C2P02 Lego
+- [x] C2P03 Boxbang
+- [x] C2P04 Island
+- [x] C2P05 Knight
+- [x] C2P06 Booth
+- [x] C2P07 Sort by Displacement
+- [x] C2P08 A Hand of Slave
+- [x] C2P09 Fan Meeting
+- [x] C2P10 Insert in Order
+- [x] C2P11 Insert at Index
+- [x] C2P12 Set Operator
+- [x] C2P15 Pancake Flip
+- [x] C2P23 BST Traveral
+- [x] C2P29 Digraph Degree
+- [x] C2P31 Weight Graph
+- [x] C2P32 Has Path
+- [x] C2P42 Simple Equation
+- [x] C2P43 ลำดับ Fibonacci แบบไม่ปกติ
+- [x] C2P44 kway
+- [x] C2P45 โยนเต๋า
+- [x] C2P46 กองมังคุด
+- [x] C2P48 ค่าผ่านทางไปบ้านเพื่อน
+- [x] C2P53 Peak-1D
+- [x] C2P74 คนบ้านเดียวกัน
+- [x] C2P76 Sweet Corn
+- [x] C2P80 Epidermic
+- [x] C2P88 Tiling V3.5
+- [x] C2P93 Binary counter
+- [x] C2P94 Sport Schedule
+- [x] C2Q002 ข้อสันนิษฐานของโกลด์บาค
+- [x] C2Q004 พายเรือข้ามคลอง
+- [x] C2T06 Monopoly Walk
+- [x] TASK_024 Graph01_Matrix
+- [x] TASK_025 Graph02_List
+- [x] TASK_028 Graph03_Degree
+- [x] TASK_034 Graph04_DFS
+- [x] TASK_035 Graph05_BFS
+- [x] TASK_036 Graph06_Component
+
+
 ## ⚠️ รอแก้บั๊ก (ได้คะแนนแล้วแต่ยังไม่ 100)
 - [ ] C2P13 Word Count (90/100)
 - [ ] C2P25 Expression Tree (90/100)
@@ -114,47 +159,3 @@
 - [ ] TASK_124 Guess Cost
 - [ ] TASK_166 Subsegment Sum
 - [ ] TASK_242 Dancing Zemo
-
-## ✅ ผ่านฉลุย 100 เต็ม (ย้ายเข้า __DONE__ แล้ว)
-- [x] C2E01 Sweet Corn
-- [x] C2E02 Pochita
-- [x] C2E03 P cafe
-- [x] C2P01 Container
-- [x] C2P02 Lego
-- [x] C2P03 Boxbang
-- [x] C2P04 Island
-- [x] C2P05 Knight
-- [x] C2P06 Booth
-- [x] C2P07 Sort by Displacement
-- [x] C2P08 A Hand of Slave
-- [x] C2P09 Fan Meeting
-- [x] C2P10 Insert in Order
-- [x] C2P11 Insert at Index
-- [x] C2P12 Set Operator
-- [x] C2P15 Pancake Flip
-- [x] C2P23 BST Traveral
-- [x] C2P29 Digraph Degree
-- [x] C2P31 Weight Graph
-- [x] C2P32 Has Path
-- [x] C2P42 Simple Equation
-- [x] C2P43 ลำดับ Fibonacci แบบไม่ปกติ
-- [x] C2P44 kway
-- [x] C2P45 โยนเต๋า
-- [x] C2P46 กองมังคุด
-- [x] C2P48 ค่าผ่านทางไปบ้านเพื่อน
-- [x] C2P53 Peak-1D
-- [x] C2P74 คนบ้านเดียวกัน
-- [x] C2P76 Sweet Corn
-- [x] C2P80 Epidermic
-- [x] C2P88 Tiling V3.5
-- [x] C2P93 Binary counter
-- [x] C2P94 Sport Schedule
-- [x] C2Q002 ข้อสันนิษฐานของโกลด์บาค
-- [x] C2Q004 พายเรือข้ามคลอง
-- [x] C2T06 Monopoly Walk
-- [x] TASK_024 Graph01_Matrix
-- [x] TASK_025 Graph02_List
-- [x] TASK_028 Graph03_Degree
-- [x] TASK_034 Graph04_DFS
-- [x] TASK_035 Graph05_BFS
-- [x] TASK_036 Graph06_Component
