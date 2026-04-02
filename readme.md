@@ -52,7 +52,7 @@
 - [ ] C2P95 Sport Partition (90/100)
 
 ## 🔴 ยังได้ 0 อยู่ / ยังไม่ได้ทำ
-- [ ] C2E04 Wildland Firefighter
+- [x] C2E04 Wildland Firefighter
 - [ ] C2E05 Tube
 - [ ] C2E06 Fruit Merchant
 - [ ] C2E07 Prime Minister

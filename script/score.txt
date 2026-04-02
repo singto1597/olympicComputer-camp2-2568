@@ -115,7 +115,7 @@ Score	Task	Name	Time limit	Memory limit	Type	Files
 100 / 100	C2E01	Sweet Corn (65-Exam1)	0.500 seconds	2.00 MiB	Batch	C2E01[.cpp|.c]
 100 / 100	C2E02	Pochita (65-Exam1)	1.000 second	64.0 MiB	Batch	C2E02[.cpp|.c]
 100 / 100	C2E03	P cafe (65-Exam1)	0.500 seconds	16.0 MiB	Batch	C2E03[.cpp|.c]
-0 / 100	C2E04	Wildland Firefighter (65-Exam1)	1.000 second	16.0 MiB	Batch	C2E04[.cpp|.c]
+100 / 100	C2E04	Wildland Firefighter (65-Exam1)	1.000 second	16.0 MiB	Batch	C2E04[.cpp|.c]
 0 / 100	C2E05	Tube (65-Exam2)	0.100 seconds	4.00 MiB	Batch	C2E05[.cpp|.c]
 0 / 100	C2E06	Fruit Merchant (65-Exam2)	2.000 seconds	24.0 MiB	Batch	C2E06[.cpp|.c]
 0 / 100	C2E07	Prime Minister (65-Exam2)	1.000 second	64.0 MiB	Batch	C2E07[.cpp|.c]
