@@ -4,6 +4,7 @@
 - [x] C2E01 Sweet Corn
 - [x] C2E02 Pochita
 - [x] C2E03 P cafe
+- [x] C2E04 Wildland Firefighter
 - [x] C2E10 Eat at Baratie!
 - [x] C2P01 Container
 - [x] C2P02 Lego
@@ -52,7 +53,6 @@
 - [ ] C2P95 Sport Partition (90/100)
 
 ## 🔴 ยังได้ 0 อยู่ / ยังไม่ได้ทำ
-- [x] C2E04 Wildland Firefighter
 - [ ] C2E05 Tube
 - [ ] C2E06 Fruit Merchant
 - [ ] C2E07 Prime Minister
