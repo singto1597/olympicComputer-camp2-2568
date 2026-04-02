@@ -4,6 +4,7 @@
 - [x] C2E01 Sweet Corn
 - [x] C2E02 Pochita
 - [x] C2E03 P cafe
+- [x] C2E10 Eat at Baratie!
 - [x] C2P01 Container
 - [x] C2P02 Lego
 - [x] C2P03 Boxbang
@@ -57,7 +58,6 @@
 - [ ] C2E07 Prime Minister
 - [ ] C2E08 Sweet Corn 2
 - [ ] C2E09 525-2746
-- [x] C2E10 Eat at Baratie!
 - [ ] C2E11 Necklace editor
 - [ ] C2E12 Hell's Kitchen Xtreme
 - [ ] C2E17 Puyu Puyu
