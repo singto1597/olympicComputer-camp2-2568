@@ -23,6 +23,7 @@
 - [x] C2P29 Digraph Degree
 - [x] C2P31 Weight Graph
 - [x] C2P32 Has Path
+- [x] C2P40 Maze
 - [x] C2P42 Simple Equation
 - [x] C2P43 ลำดับ Fibonacci แบบไม่ปกติ
 - [x] C2P44 kway
@@ -84,7 +85,6 @@
 - [ ] C2P37 MST2
 - [ ] C2P38 Squirrel
 - [ ] C2P39 Knight - V2
-- [ ] C2P40 Maze
 - [ ] C2P41 Hail Hydra
 - [ ] C2P47 กว้านซื้อที่ดิน
 - [ ] C2P49 Skipping Stone

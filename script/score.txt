@@ -62,7 +62,7 @@ Score	Task	Name	Time limit	Memory limit	Type	Files
 0 / 100	C2P37	MST2	1.000 second	32.0 MiB	Batch	C2P37[.cpp|.c]
 0 / 100	C2P38	Squirrel	0.100 seconds	8.00 MiB	Batch	C2P38[.cpp|.c]
 0 / 50	C2P39	Knight - V2	0.500 seconds	4.00 MiB	Batch	C2P39[.cpp|.c]
-0 / 80	C2P40	Maze	0.100 seconds	4.00 MiB	Batch	C2P40[.cpp|.c]
+100 / 100	C2P40	Maze	0.100 seconds	4.00 MiB	Batch	C2P40[.cpp|.c]
 0 / 100	C2P41	Hail Hydra	0.100 seconds	4.00 MiB	Batch	C2P41[.cpp|.c]
 100 / 100	C2P42	Simple Equation	0.100 seconds	4.00 MiB	Batch	C2P42[.cpp|.c]
 100 / 100	C2P43	ลำดับ Fibonacci แบบไม่ปกติ	1.000 second	1.00 MiB	Batch	C2P43[.cpp|.c]
