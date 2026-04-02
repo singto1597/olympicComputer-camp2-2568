@@ -1,6 +1,6 @@
 # 🏆 Progress: CMU Grader (Camp 2)
 
-## ✅ ผ่านฉลุย 100 เต็ม (ย้ายเข้า __DONE__ แล้ว)
+## ✅ ผ่าน 100 เต็ม (ย้ายเข้า __DONE__ แล้ว)
 - [x] C2E01 Sweet Corn
 - [x] C2E02 Pochita
 - [x] C2E03 P cafe
