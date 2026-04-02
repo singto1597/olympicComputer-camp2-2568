@@ -121,7 +121,7 @@ Score	Task	Name	Time limit	Memory limit	Type	Files
 0 / 100	C2E07	Prime Minister (65-Exam2)	1.000 second	64.0 MiB	Batch	C2E07[.cpp|.c]
 0 / 100	C2E08	Sweet Corn 2 (65-Exam2)	1.000 second	32.0 MiB	Batch	C2E08[.cpp|.c]
 0 / 100	C2E09	525-2746 (66-Exam1)	2.000 seconds	16.0 MiB	Batch	C2E09[.cpp|.c]
-0 / 100	C2E10	Eat at Baratie! (66-Exam1)	2.000 seconds	128 MiB	Batch	C2E10[.cpp|.c]
+100 / 100	C2E10	Eat at Baratie! (66-Exam1)	2.000 seconds	128 MiB	Batch	C2E10[.cpp|.c]
 0 / 100	C2E11	Necklace editor (66-Exam1)	1.000 second	8.00 MiB	Batch	C2E11[.cpp|.c]
 0 / 100	C2E12	Hell's Kitchen Xtreme (66-Exam1)	0.040 seconds	2.00 MiB	Batch	C2E12[.cpp|.c]
 0 / 100	C2P81	Binomial Coefficient Calculator	0.010 seconds	8.00 MiB	Batch	C2P81[.cpp|.c]
