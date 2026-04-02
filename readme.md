@@ -1,0 +1,160 @@
+# 🏆 Progress: CMU Grader (Camp 2)
+
+## ⚠️ รอแก้บั๊ก (ได้คะแนนแล้วแต่ยังไม่ 100)
+- [ ] C2P13 Word Count (90/100)
+- [ ] C2P25 Expression Tree (90/100)
+- [ ] C2P95 Sport Partition (90/100)
+
+## 🔴 ยังได้ 0 อยู่ / ยังไม่ได้ทำ
+- [ ] C2E04 Wildland Firefighter
+- [ ] C2E05 Tube
+- [ ] C2E06 Fruit Merchant
+- [ ] C2E07 Prime Minister
+- [ ] C2E08 Sweet Corn 2
+- [ ] C2E09 525-2746
+- [ ] C2E10 Eat at Baratie!
+- [ ] C2E11 Necklace editor
+- [ ] C2E12 Hell's Kitchen Xtreme
+- [ ] C2E17 Puyu Puyu
+- [ ] C2E18 Meet and Greet
+- [ ] C2E19 Bifinity Castle
+- [ ] C2E20 LN Book Club
+- [ ] C2P14 Hash Table
+- [ ] C2P16 Pancake Sort
+- [ ] C2P17 Pancake Dual
+- [ ] C2P18 Portfolio
+- [ ] C2P19 Groupie
+- [ ] C2P20 Polynomial Addition
+- [ ] C2P21 Wizard Tournament
+- [ ] C2P22 Radix LSD
+- [ ] C2P24 BST Search
+- [ ] C2P26 Add all
+- [ ] C2P27 IoT
+- [ ] C2P28 General online
+- [ ] C2P30 Path Length
+- [ ] C2P33 Time to Live
+- [ ] C2P34 Graph Connectivity
+- [ ] C2P35 มหานครกะลาแลนด์
+- [ ] C2P36 MST1
+- [ ] C2P37 MST2
+- [ ] C2P38 Squirrel
+- [ ] C2P39 Knight - V2
+- [ ] C2P40 Maze
+- [ ] C2P41 Hail Hydra
+- [ ] C2P47 กว้านซื้อที่ดิน
+- [ ] C2P49 Skipping Stone
+- [ ] C2P50 Urinals
+- [ ] C2P51 Max-Subarray
+- [ ] C2P52 Urinals-Mod
+- [ ] C2P53 Peak-1D
+- [ ] C2P54 Max-Subarray
+- [ ] C2P55 Poly-Mult
+- [ ] C2P56 Zemo
+- [ ] C2P57 Guessing Game
+- [ ] C2P58 Boss Fight
+- [ ] C2P59 Subset Sum
+- [ ] C2P60 Longest Common Subsequence
+- [ ] C2P61 Longest Increasing Subsequence
+- [ ] C2P62 Edit Distance
+- [ ] C2P63 Pancake Package
+- [ ] C2P64 Pancake Factory
+- [ ] C2P65 Ruin of Alph
+- [ ] C2P66 Digits
+- [ ] C2P67 Word Spell
+- [ ] C2P68 Decode
+- [ ] C2P70 Pancake IOT
+- [ ] C2P71 Flight of the Flying Squirrel
+- [ ] C2P72 รายงานทางการเงิน
+- [ ] C2P73 Reverse Range
+- [ ] C2P75 Minor
+- [ ] C2P77 BT-Ops
+- [ ] C2P78 รูหนอน
+- [ ] C2P79 เมืองมีคุณภาพ
+- [ ] C2P81 Binomial Coefficient Calculator
+- [ ] C2P82 เชือกวิเศษ
+- [ ] C2P83 Mr. Robot
+- [ ] C2P84 Maximum Contiguous Subsequence
+- [ ] C2P85 Tiling V1
+- [ ] C2P86 Tiling V2
+- [ ] C2P87 Tiling V3
+- [ ] C2P89 Group Photo
+- [ ] C2P90 Minesweeper
+- [ ] C2P91 NES
+- [ ] C2P92 Zoo Tour
+- [ ] C2P96 Pair programming
+- [ ] C2P97 Email
+- [ ] C2P98 MTR
+- [ ] C2P99 Shortest Common Supersequence
+- [ ] C2Q001 Longest Palindrome Subsequence
+- [ ] C2Q003 ลำดับแฟเรย์
+- [ ] C2Q005 ฟีโบนัชชีแบบมอดูลาร์
+- [ ] C2T01 เล่นสวนสนุกแบบอึดอัด
+- [ ] C2T02 Hospital Work
+- [ ] C2T03 Tower of Hanoi
+- [ ] C2T04 Why code so much
+- [ ] C2T05 Team Queue
+- [ ] C2T07 Code Thief
+- [ ] C2T08 Holy Water For Da Ways
+- [ ] C2T09 Infection
+- [ ] C2T10 Shattered Bonds
+- [ ] C2T11 Tonson's Presents
+- [ ] C2T12 Merchant
+- [ ] C2T13 Balancing-Stones
+- [ ] C2T14 Digging Diamond
+- [ ] C2T15 4N_power_tower
+- [ ] C2T16 Pokémon Battle
+- [ ] C2T17 Evacuation-Plan
+- [ ] C2T18 Signal
+- [ ] C2T19 The Hunter Brothers
+- [ ] C2T20 Heros of TN Square
+- [ ] C2T21 Star crossed link
+- [ ] TASK_046 Pleng
+- [ ] TASK_047 DP_01
+- [ ] TASK_095 KLB
+- [ ] TASK_098 Bsquare
+- [ ] TASK_124 Guess Cost
+- [ ] TASK_166 Subsegment Sum
+- [ ] TASK_242 Dancing Zemo
+
+## ✅ ผ่านฉลุย 100 เต็ม (ย้ายเข้า __DONE__ แล้ว)
+- [x] C2E01 Sweet Corn
+- [x] C2E02 Pochita
+- [x] C2E03 P cafe
+- [x] C2P01 Container
+- [x] C2P02 Lego
+- [x] C2P03 Boxbang
+- [x] C2P04 Island
+- [x] C2P05 Knight
+- [x] C2P06 Booth
+- [x] C2P07 Sort by Displacement
+- [x] C2P08 A Hand of Slave
+- [x] C2P09 Fan Meeting
+- [x] C2P10 Insert in Order
+- [x] C2P11 Insert at Index
+- [x] C2P12 Set Operator
+- [x] C2P15 Pancake Flip
+- [x] C2P23 BST Traveral
+- [x] C2P29 Digraph Degree
+- [x] C2P31 Weight Graph
+- [x] C2P32 Has Path
+- [x] C2P42 Simple Equation
+- [x] C2P43 ลำดับ Fibonacci แบบไม่ปกติ
+- [x] C2P44 kway
+- [x] C2P45 โยนเต๋า
+- [x] C2P46 กองมังคุด
+- [x] C2P48 ค่าผ่านทางไปบ้านเพื่อน
+- [x] C2P74 คนบ้านเดียวกัน
+- [x] C2P76 Sweet Corn
+- [x] C2P80 Epidermic
+- [x] C2P88 Tiling V3.5
+- [x] C2P93 Binary counter
+- [x] C2P94 Sport Schedule
+- [x] C2Q002 ข้อสันนิษฐานของโกลด์บาค
+- [x] C2Q004 พายเรือข้ามคลอง
+- [x] C2T06 Monopoly Walk
+- [x] TASK_024 Graph01_Matrix
+- [x] TASK_025 Graph02_List
+- [x] TASK_028 Graph03_Degree
+- [x] TASK_034 Graph04_DFS
+- [x] TASK_035 Graph05_BFS
+- [x] TASK_036 Graph06_Component
