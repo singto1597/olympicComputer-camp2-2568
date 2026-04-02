@@ -46,7 +46,6 @@
 - [ ] C2P50 Urinals
 - [ ] C2P51 Max-Subarray
 - [ ] C2P52 Urinals-Mod
-- [x] C2P53 Peak-1D
 - [ ] C2P54 Max-Subarray
 - [ ] C2P55 Poly-Mult
 - [ ] C2P56 Zemo
@@ -143,6 +142,7 @@
 - [x] C2P45 โยนเต๋า
 - [x] C2P46 กองมังคุด
 - [x] C2P48 ค่าผ่านทางไปบ้านเพื่อน
+- [x] C2P53 Peak-1D
 - [x] C2P74 คนบ้านเดียวกัน
 - [x] C2P76 Sweet Corn
 - [x] C2P80 Epidermic
