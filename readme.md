@@ -77,7 +77,7 @@
 - [ ] C2P26 Add all
 - [ ] C2P27 IoT
 - [ ] C2P28 General online
-- [ ] C2P30 Path Length
+- [x] C2P30 Path Length
 - [ ] C2P33 Time to Live
 - [ ] C2P34 Graph Connectivity
 - [ ] C2P35 มหานครกะลาแลนด์
