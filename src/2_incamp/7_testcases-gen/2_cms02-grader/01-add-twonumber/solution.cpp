@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    // ปรับให้ I/O เร็วปรู๊ดปร๊าด
+    // ปรับให้ I/O เร็ว
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
 
