@@ -44,6 +44,7 @@
 - [x] C2P94 Sport Schedule
 - [x] C2Q002 ข้อสันนิษฐานของโกลด์บาค
 - [x] C2Q004 พายเรือข้ามคลอง
+- [x] C2Q005 ฟีโบนัชชีแบบมอดูลาร์
 - [x] C2Q006 ลำดับการยืม1
 - [x] C2Q007 ลำดับการยืม2
 - [x] C2Q008 ย้อมสีเซลล์
@@ -77,6 +78,10 @@
 - [ ] C2E18 Meet and Greet
 - [ ] C2E19 Bifinity Castle
 - [ ] C2E20 LN Book Club
+- [ ] C2E21 Enhance Profits Policy
+- [ ] C2E22 Subway Engineer
+- [ ] C2E23 BulBul Couple Influencers
+- [ ] C2E24 Solo Leveling
 - [ ] C2P14 Hash Table
 - [ ] C2P16 Pancake Sort
 - [ ] C2P17 Pancake Dual
@@ -138,7 +143,6 @@
 - [ ] C2P99 Shortest Common Supersequence
 - [ ] C2Q001 Longest Palindrome Subsequence
 - [ ] C2Q003 ลำดับแฟเรย์
-- [x] C2Q005 ฟีโบนัชชีแบบมอดูลาร์
 - [ ] C2T01 เล่นสวนสนุกแบบอึดอัด
 - [ ] C2T02 Hospital Work
 - [ ] C2T03 Tower of Hanoi
