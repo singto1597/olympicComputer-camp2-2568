@@ -158,5 +158,5 @@ Score	Task	Name	Time limit	Memory limit	Type	Files
 100 / 100	C2Q008	ย้อมสีเซลล์	1.000 second	8.00 MiB	Batch	C2Q008[.cpp|.c]
 100 / 100	C2Q011	การเดินทางของนินจากบ	0.010 seconds	8.00 MiB	Batch	C2Q011[.cpp|.c]
 100 / 100	C2Q012	จอมโจรลูแปงกับหมู่บ้านอาถรรพ์	1.000 second	8.00 MiB	Batch	C2Q012[.cpp|.c]
-0 / 100	C2Q010	งานเลี้ยงเต้นรำหน้ากาก	1.000 second	8.00 MiB	Batch	C2Q010[.cpp|.c]
-0 / 100	C2Q013	บันทึกรายรับของพ่อค้าเร่	1.000 second	8.00 MiB	Batch	C2Q013[.cpp|.c]
+100 / 100	C2Q010	งานเลี้ยงเต้นรำหน้ากาก	1.000 second	8.00 MiB	Batch	C2Q010[.cpp|.c]
+100 / 100	C2Q013	บันทึกรายรับของพ่อค้าเร่	1.000 second	8.00 MiB	Batch	C2Q013[.cpp|.c]
