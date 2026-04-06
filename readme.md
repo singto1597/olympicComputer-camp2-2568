@@ -138,7 +138,7 @@
 - [ ] C2P99 Shortest Common Supersequence
 - [ ] C2Q001 Longest Palindrome Subsequence
 - [ ] C2Q003 ลำดับแฟเรย์
-- [ ] C2Q005 ฟีโบนัชชีแบบมอดูลาร์
+- [x] C2Q005 ฟีโบนัชชีแบบมอดูลาร์
 - [ ] C2T01 เล่นสวนสนุกแบบอึดอัด
 - [ ] C2T02 Hospital Work
 - [ ] C2T03 Tower of Hanoi
