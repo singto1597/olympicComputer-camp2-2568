@@ -1,6 +1,41 @@
-# 🏆 Progress: CMU Grader (Camp 2)
+# 💻 สรุปเนื้อหาและโจทย์ สอวน. คอมพิวเตอร์ ค่าย 2
 
-## ✅ ผ่าน 100 เต็ม (ย้ายเข้า __DONE__ แล้ว)
+Repository นี้รวบรวมไฟล์เรียน สไลด์ โค้ดตัวอย่าง และไฟล์ส่งโจทย์ Grader สำหรับการเตรียมตัวสอบ สอวน. ค่าย 2
+
+---
+
+## 📚 สารบัญเนื้อหาที่เรียน (Lectures & Sheets)
+*(คลิกที่ลิงก์เพื่อเข้าไปดูสไลด์และโค้ดของแต่ละหัวข้อ)*
+
+### 🌳 หมวด Data Structures & STL
+* [Time Complexity](./src/2_incamp/5_sheets/01_first-half/0327_AM_TimeComplexity)
+* [C++ STL Basics (List, Vector, Stack, Queue)](./src/2_incamp/5_sheets/01_first-half/0328_AM_STL_Basics)
+* [Pointers Intro](./src/2_incamp/5_sheets/01_first-half/0328_PM_Pointers)
+* [Struct & More STL](./src/2_incamp/5_sheets/01_first-half/0329_AM_STL_Struct)
+* [Tree Basics](./src/2_incamp/5_sheets/01_first-half/0330_AM_TreeBasics)
+* [Binary Search Tree (BST)](./src/2_incamp/5_sheets/01_first-half/0330_PM_BST)
+* [Heap & Priority Queue](./src/2_incamp/5_sheets/01_first-half/0331_AM_Heap_PQ)
+* [Disjoint Set / Union Find (DSU)](./src/2_incamp/5_sheets/01_first-half/0331_PM_UnionFind)
+* [STL Set & Map](./src/2_incamp/5_sheets/01_first-half/0401_AM_STL_SetMap)
+
+### 🔄 หมวด Algorithms
+* [Math in CP](./src/2_incamp/5_sheets/01_first-half/0327_PM_MathInCP)
+* [Greedy Algorithm](./src/2_incamp/5_sheets/01_first-half/0329_PM_Greedy)
+* [Recursion & Exhaustive Search](./src/2_incamp/5_sheets/01_first-half/0401_PM_Recursion)
+* [Divide and Conquer](./src/2_incamp/5_sheets/01_first-half/0402_DivideAndConquer)
+* [Dynamic Programming (DP)](./src/2_incamp/5_sheets/02_second-half/0406_DynamicProgramming)
+
+### 🗺️ หมวด Graph Theory
+* [Graph Intro](./src/2_incamp/5_sheets/02_second-half/0404_AM_GraphIntro)
+* [Graph Traversal (BFS & DFS)](./src/2_incamp/5_sheets/02_second-half/0404_PM_Graph_BFS_DFS)
+* [Shortest Path](./src/2_incamp/5_sheets/02_second-half/0405_AM_Graph_ShortestPath)
+* [Minimum Spanning Tree (MST - Prim, Kruskal)](./src/2_incamp/5_sheets/02_second-half/0405_PM_Graph_MST)
+
+---
+
+## 🏆 Progress: CMU Grader (Camp 2)
+
+### ✅ ผ่าน 100 เต็ม (ย้ายเข้า __DONE__ แล้ว)
 - [x] C2E01 Sweet Corn
 - [x] C2E02 Pochita
 - [x] C2E03 P cafe
@@ -63,12 +98,12 @@
 - [x] TASK_036 Graph06_Component
 
 
-## ⚠️ รอแก้บั๊ก (ได้คะแนนแล้วแต่ยังไม่ 100)
+### ⚠️ รอแก้บั๊ก (ได้คะแนนแล้วแต่ยังไม่ 100)
 - [ ] C2P13 Word Count (90/100)
 - [ ] C2P25 Expression Tree (90/100)
 - [ ] C2P95 Sport Partition (90/100)
 
-## 🔴 ยังได้ 0 อยู่ / ยังไม่ได้ทำ
+### 🔴 ยังได้ 0 อยู่ / ยังไม่ได้ทำ
 - [ ] C2E05 Tube
 - [ ] C2E06 Fruit Merchant
 - [ ] C2E07 Prime Minister
