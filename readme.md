@@ -110,11 +110,11 @@
 - [ ] C2P71 Flight of the Flying Squirrel
 - [ ] C2P72 รายงานทางการเงิน
 - [ ] C2P73 Reverse Range
-- [ ] C2P75 Minor
+- [x] C2P75 Minor
 - [ ] C2P77 BT-Ops
-- [ ] C2P78 รูหนอน
-- [ ] C2P79 เมืองมีคุณภาพ
-- [ ] C2P81 Binomial Coefficient Calculator
+- [x] C2P78 รูหนอน
+- [x] C2P79 เมืองมีคุณภาพ
+- [x] C2P81 Binomial Coefficient Calculator
 - [ ] C2P82 เชือกวิเศษ
 - [ ] C2P83 Mr. Robot
 - [ ] C2P84 Maximum Contiguous Subsequence
@@ -132,6 +132,13 @@
 - [ ] C2Q001 Longest Palindrome Subsequence
 - [ ] C2Q003 ลำดับแฟเรย์
 - [ ] C2Q005 ฟีโบนัชชีแบบมอดูลาร์
+- [x] C2Q006 ลำดับการยืม1
+- [x] C2Q007 ลำดับการยืม2
+- [x] C2Q008 ย้อมสีเซลล์
+- [ ] C2Q010 งานเลี้ยงเต้นรำหน้ากาก
+- [x] C2Q011 การเดินทางของนินจากบ
+- [x] C2Q012 จอมโจรลูแปงกับหมู่บ้านอาถรรพ์
+- [ ] C2Q013 บันทึกรายรับของพ่อค้าเร่
 - [ ] C2T01 เล่นสวนสนุกแบบอึดอัด
 - [ ] C2T02 Hospital Work
 - [ ] C2T03 Tower of Hanoi
