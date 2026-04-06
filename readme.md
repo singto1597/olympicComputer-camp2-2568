@@ -33,13 +33,24 @@
 - [x] C2P48 ค่าผ่านทางไปบ้านเพื่อน
 - [x] C2P53 Peak-1D
 - [x] C2P74 คนบ้านเดียวกัน
+- [x] C2P75 Minor
 - [x] C2P76 Sweet Corn
+- [x] C2P78 รูหนอน
+- [x] C2P79 เมืองมีคุณภาพ
+- [x] C2P81 Binomial Coefficient Calculator
 - [x] C2P80 Epidermic
 - [x] C2P88 Tiling V3.5
 - [x] C2P93 Binary counter
 - [x] C2P94 Sport Schedule
 - [x] C2Q002 ข้อสันนิษฐานของโกลด์บาค
 - [x] C2Q004 พายเรือข้ามคลอง
+- [x] C2Q006 ลำดับการยืม1
+- [x] C2Q007 ลำดับการยืม2
+- [x] C2Q008 ย้อมสีเซลล์
+- [x] C2Q010 งานเลี้ยงเต้นรำหน้ากาก
+- [x] C2Q011 การเดินทางของนินจากบ
+- [x] C2Q012 จอมโจรลูแปงกับหมู่บ้านอาถรรพ์
+- [x] C2Q013 บันทึกรายรับของพ่อค้าเร่
 - [x] C2T06 Monopoly Walk
 - [x] TASK_024 Graph01_Matrix
 - [x] TASK_025 Graph02_List
@@ -110,11 +121,7 @@
 - [ ] C2P71 Flight of the Flying Squirrel
 - [ ] C2P72 รายงานทางการเงิน
 - [ ] C2P73 Reverse Range
-- [x] C2P75 Minor
 - [ ] C2P77 BT-Ops
-- [x] C2P78 รูหนอน
-- [x] C2P79 เมืองมีคุณภาพ
-- [x] C2P81 Binomial Coefficient Calculator
 - [ ] C2P82 เชือกวิเศษ
 - [ ] C2P83 Mr. Robot
 - [ ] C2P84 Maximum Contiguous Subsequence
@@ -132,13 +139,6 @@
 - [ ] C2Q001 Longest Palindrome Subsequence
 - [ ] C2Q003 ลำดับแฟเรย์
 - [ ] C2Q005 ฟีโบนัชชีแบบมอดูลาร์
-- [x] C2Q006 ลำดับการยืม1
-- [x] C2Q007 ลำดับการยืม2
-- [x] C2Q008 ย้อมสีเซลล์
-- [x] C2Q010 งานเลี้ยงเต้นรำหน้ากาก
-- [x] C2Q011 การเดินทางของนินจากบ
-- [x] C2Q012 จอมโจรลูแปงกับหมู่บ้านอาถรรพ์
-- [x] C2Q013 บันทึกรายรับของพ่อค้าเร่
 - [ ] C2T01 เล่นสวนสนุกแบบอึดอัด
 - [ ] C2T02 Hospital Work
 - [ ] C2T03 Tower of Hanoi
