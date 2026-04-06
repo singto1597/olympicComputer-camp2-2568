@@ -19,6 +19,7 @@
 - [x] C2P11 Insert at Index
 - [x] C2P12 Set Operator
 - [x] C2P15 Pancake Flip
+- [x] C2P16 Pancake Sort (ยังไม่เข้าใจ)
 - [x] C2P23 BST Traveral
 - [x] C2P29 Digraph Degree
 - [x] C2P30 Path Length
@@ -42,6 +43,7 @@
 - [x] C2P88 Tiling V3.5
 - [x] C2P93 Binary counter
 - [x] C2P94 Sport Schedule
+- [x] C2Q001 Longest Palindrome Subsequence (ยังไม่เข้าใจ)
 - [x] C2Q002 ข้อสันนิษฐานของโกลด์บาค
 - [x] C2Q004 พายเรือข้ามคลอง
 - [x] C2Q005 ฟีโบนัชชีแบบมอดูลาร์
@@ -83,7 +85,6 @@
 - [ ] C2E23 BulBul Couple Influencers
 - [ ] C2E24 Solo Leveling
 - [ ] C2P14 Hash Table
-- [ ] C2P16 Pancake Sort
 - [ ] C2P17 Pancake Dual
 - [ ] C2P18 Portfolio
 - [ ] C2P19 Groupie
@@ -141,7 +142,6 @@
 - [ ] C2P97 Email
 - [ ] C2P98 MTR
 - [ ] C2P99 Shortest Common Supersequence
-- [ ] C2Q001 Longest Palindrome Subsequence
 - [ ] C2Q003 ลำดับแฟเรย์
 - [ ] C2T01 เล่นสวนสนุกแบบอึดอัด
 - [ ] C2T02 Hospital Work
