@@ -20,12 +20,12 @@ matrix multiply(matrix A, matrix B, long long mod){
     ans.a00 = (A.a00 * B.a00 + A.a01 * B.a10) % mod;
     ans.a01 = (A.a00 * B.a01 + A.a01 * B.a11) % mod;
     ans.a10 = (A.a10 * B.a00 + A.a11 * B.a10) % mod;
-    ans.a01 = (A.a10 * B.a01 + A.a11 * B.a11) % mod;
+    ans.a11 = (A.a10 * B.a01 + A.a11 * B.a11) % mod;
     return ans;
 }
 
 
-matrix power(matrix base, int p, long long mod){
+matrix power(matrix base, long long p, long long mod){
     if (p == 0){
         matrix ans {1, 0, 0, 1};
         return ans;
@@ -58,6 +58,10 @@ int main(){
     while(cin >> n >> m){
         // long long MOD = fastExp(2, m);
         long long mod = 1LL << m;
+        if (n == 0) {
+            cout << 0 << endl;
+            continue;
+        }
         matrix base {1,1,1,0};
         matrix ans = power(base, n-1, mod);
 

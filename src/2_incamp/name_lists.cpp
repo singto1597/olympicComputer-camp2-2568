@@ -3,7 +3,7 @@ using namespace std;
 
 
 int main() {
-    string OCom_Camp2_CMU_2025[31] = {
+    string OCom_Camp2_2025[31] = {
         "Panya",  "Baan",   "Khunnie", "Chay",  "Thunwa", 
         "Champ",  "Jaja",   "Nam",     "Eng",   "Team",   "Prat", 
         "Tonkla", "Fahsai", "Tete",    "Ion",   "Singto", "Kong", 
@@ -12,15 +12,15 @@ int main() {
         "Phunnnnnn", "Wut", "Great",   "JJ"
     };
 
-    string TA_OCom_Camp2_CMU_2025[6] = {
+    string TA_OCom_Camp2_2025[6] = {
         "Na-rak", "Note", "Ogon", "Ohm", "Tak", "Tan"
     };
 
-    for (string name : OCom_Camp2_CMU_2025){
+    for (string name : OCom_Camp2_2025){
         cout << name << " ";
     }
     cout << endl;
-    for (string name : TA_OCom_Camp2_CMU_2025){
+    for (string name : TA_OCom_Camp2_2025){
         cout << name << " ";
     }
 
