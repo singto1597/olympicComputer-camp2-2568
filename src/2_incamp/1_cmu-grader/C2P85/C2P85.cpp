@@ -2,6 +2,26 @@
 
 using namespace std;
 
-int main(){
 
+
+
+int main(){
+    long long n, m;
+    cin >> n >> m;
+    
+    long long dp[n + 5] = {};
+
+    dp[0] = 1;
+    dp[1] = 1;
+
+    for (int i = 1; i <= n; i++){
+        dp[i] = dp[i - 1];
+        if (i >= m){
+            dp[i] += dp[i - m];
+
+        }
+    }
+
+    cout << dp[n] << endl;
+    
 }
