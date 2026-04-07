@@ -129,7 +129,7 @@ Score	Task	Name	Time limit	Memory limit	Type	Files
 0 / 100	C2P83	Mr. Robot	1.000 second	8.00 MiB	Batch	C2P83[.cpp|.c]
 0 / 100	C2P84	Maximum Contiguous Subsequence	1.000 second	8.00 MiB	Batch	C2P84[.cpp|.c]
 100 / 100	C2P85	Tiling V1	0.010 seconds	8.00 MiB	Batch	C2P85[.cpp|.c]
-0 / 100	C2P86	Tiling V2	0.010 seconds	8.00 MiB	Batch	C2P86[.cpp|.c]
+100 / 100	C2P86	Tiling V2	0.010 seconds	8.00 MiB	Batch	C2P86[.cpp|.c]
 0 / 100	C2P87	Tiling V3	0.010 seconds	8.00 MiB	Batch	C2P87[.cpp|.c]
 0 / 100	C2P89	Group Photo	1.000 second	128 MiB	Batch	C2P89[.cpp|.c]
 0 / 100	C2P90	Minesweeper	0.010 seconds	1.00 MiB	Batch	C2P90[.cpp|.c]
