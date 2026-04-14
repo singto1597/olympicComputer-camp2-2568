@@ -13,7 +13,7 @@ rm -rf tests testcases.zip
 mkdir -p tests
 
 # ลูปสร้าง 10 เทสเคส
-for i in {01..10}; do
+for i in {01..67}; do
     echo "Generating test case $i..."
 
     # 1. รัน gen เซฟผลลัพธ์ลงไฟล์ .in
